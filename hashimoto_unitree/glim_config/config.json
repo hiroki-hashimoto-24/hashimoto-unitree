@@ -1,5 +1,4 @@
 {
-  /*** Global Configuration ***/
   "global": {
     "config_path": "",
     "config_ros": "config_ros.json",
